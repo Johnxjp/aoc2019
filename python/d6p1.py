@@ -40,15 +40,3 @@ def main():
 
 if __name__ == "__main__":
     print(main())
-
-    # map = {
-    #     "COM": ["B"],
-    #     "B": ["G", "C"],
-    #     "G": ["H"],
-    #     "C": ["D"],
-    #     "D": ["E", "I"],
-    #     "E": ["F", "J"],
-    #     "J": ["K"],
-    #     "K": ["L"],
-    # }
-    # print(total_orbits(map))
